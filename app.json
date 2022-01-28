@@ -1,6 +1,6 @@
 {
-  "name": "heroku-vless",
-  "description": "Deploy vless on Heroku.",
+  "name": "hs",
+  "description": "Dvlku.",
   "keywords": [
     "vless"
   ],
@@ -10,7 +10,7 @@
       "value": "10974d1a-cbd6-4b6f-db1d-38d78b3fb109"
     }
   },
-  "website": "https://github.com/rptec/",
-  "repository": "https://github.com/rptec/heroku-vless",
+  "website": "https://github.com/sr/",
+  "repository": "https://github.com/sr/heroku-vless",
   "stack": "container"
 }
